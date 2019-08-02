@@ -4,6 +4,15 @@ Resumos particulares de estudo da linguagem Python em sua atual versão 3.7.4.
 
 
 
+# Aprendendo Python
+
+## Indices
+
+1. [PEP8 - Style Guide for Python Code](Resumos/PEP8/index.html)
+2. 
+
+
+
 # Sobre mim
 
 Me chamo Ellison William, baiano, itabunense e estudante de Ciência da Computação pela Universidade Estadual de Santa Cruz (**UESC**).
@@ -24,7 +33,7 @@ Aceito qualquer tipo de sugestão e de alteração.
 
 Para fazer os resumos uso o editor de *[MarkDown](https://pt.wikipedia.org/wiki/Markdown)* chamado [Typora](https://typora.io/). Seus recursos são incríveis junto com sua facilidade de escrita, além de ter um visual minimalista, diversos temas tornando divertido a escrita. Além disso, sendo possível converter para HTML e PDF facilmente.
 
-> ![Typora Markdown Editor](gh-pages/img/typora.png)
+> ![Typora Markdown Editor](Resumos/img/typora.png)
 
 
 
