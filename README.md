@@ -9,7 +9,7 @@ Resumos particulares de estudo da linguagem Python em sua atual versão 3.7.4.
 ## Indices
 
 1. [PEP8 - Style Guide for Python Code](Resumos/PEP8/index.html)
-2. [DIR E HELP](Resumos/DIR-E-HELP/index.html)
+2. [DIR E HELP](Resumos/DIRHELP/index.html)
 
 
 
