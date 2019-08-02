@@ -9,13 +9,13 @@ Resumos particulares de estudo da linguagem Python em sua atual versão 3.7.4.
 ## Indices
 
 1. [PEP8 - Style Guide for Python Code](Resumos/PEP8/index.html)
-2. 
+2. [DIR E HELP](Resumos/DIR-E-HELP/index.html)
 
 
 
 # Sobre mim
 
-Me chamo Ellison William, baiano, itabunense e estudante de Ciência da Computação pela Universidade Estadual de Santa Cruz (**UESC**).
+Me chamo Ellison William, baiano, itabunense e acadêmico de Ciência da Computação pela Universidade Estadual de Santa Cruz (**UESC**).
 
 Inicio novamente o estudo dessa linguagem para uso universitário e profissional. O foco é partir para a programação web após concluir o estudo intermediário~avançado da linguagem, mais precisamente, framework [Django](https://www.djangoproject.com/).
 
