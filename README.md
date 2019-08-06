@@ -11,6 +11,7 @@ Resumos particulares de estudo da linguagem Python em sua atual versão 3.7.4.
 1. [PEP8 - Style Guide for Python Code](Resumos/PEP8/index.html)
 2. [DIR E HELP](Resumos/DIRHELP/index.html)
 3. [Entrada e saída de dados (print, input, casting)](Resumos/INOUT/index.html)
+4. [Tipos de dados e Operadores aritméticos, booleanos, comparação e atribuição](Resumos/TIPOSBASICOS/index.html)
 
 
 
